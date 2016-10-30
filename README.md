@@ -16,7 +16,7 @@ Hane (pronounced as [ˈhane]) is the word 'feather' in Japanese.
   * Code highlighting (highlight.js)
   * Typographer
   * more
-* Deplyment methods:
+* Deployment methods:
   * Git
   * AWS S3
   * rsync / scp
