@@ -6,6 +6,7 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "fs-extra-promise": "^0.4.1",
+    "htmlparser2": "^3.9.2",
     "js-beautify": "^1.6.8"
   },
   "devDependencies": {
